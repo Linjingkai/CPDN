@@ -15,3 +15,7 @@ python AwA1_cpdn.py will give you ZSL and GZSL performance on AwA1 with attribut
 python AwA2_cpdn.py will give you ZSL and GZSL performance on AwA2 with attribute under GBU setting 
 
 python CUB_cpdn.py will give you ZSL and GZSL performance on CUB with attribute under GBU setting 
+
+# Note
+Please load pre-trained parameters of RN for quickly training.
+
